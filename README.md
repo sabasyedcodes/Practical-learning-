@@ -1,4 +1,4 @@
-# simple-projects
+# Practical Learning
 
 Welcome to the Practical Learning Repository! This repository is dedicated to my personal journey of practical learning and hands-on projects. Here, I document and share the projects I work on as I explore various concepts, technologies, and programming languages.
 
